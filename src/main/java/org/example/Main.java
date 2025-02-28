@@ -10,7 +10,7 @@ import static jdk.javadoc.internal.doclets.formats.html.markup.HtmlStyle.title;
 
 public class Main {
     public static void main(String[] args) {
-        
+
         System.out.println("Hello and welcome!");
 
         System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver-win64/chromedriver.exe");
